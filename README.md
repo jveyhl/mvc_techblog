@@ -15,7 +15,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ## Installation
 
-Ensure that you have Node.js and npm installed.
+N/A
 
 ## Screenshots
 
