@@ -7,13 +7,13 @@
         </h2>
         <div>
           Posted by
-          {{User.username}}
+          {{user.name}}
           on
-          {{format_date createdAt}}
+          {{format_date date_created}}
         </div>
       </div>
       <div class="card-body">
-        {{body}}
+        {{content}}
       </div>
     </article>
   {{/each}}

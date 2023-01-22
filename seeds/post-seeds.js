@@ -4,7 +4,7 @@ const postData = [
   {
     title: "Public launch of SuperTask!",
     content:
-      "Get more done with the SuperTask mobile app. Manage, capture, and edit your tasks from anywhere, at anytime, with to-dos that sync across all your devices. Integrations with your email accounts and Calendar help you get tasks done—faster.",
+      "Get more done with the SuperTask mobile app. Manage, capture, and edit your tasks from anywhere, at anytime, with to-dos that sync across all your devices. Integrations with your email accounts and calendar help you get tasks done FASTER.",
     user_id: 3,
   },
   {
