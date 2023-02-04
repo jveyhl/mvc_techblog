@@ -19,7 +19,13 @@ N/A
 
 ## Screenshots
 
-![Alt text](/images/1.png)
+![Alt text](/public/images/1.png)
+![Alt text](/public/images/2.png)
+![Alt text](/public/images/3.png)
+![Alt text](/public/images/4.png)
+![Alt text](/public/images/5.png)
+![Alt text](/public/images/6.png)
+![Alt text](/public/images/7.png)
 
 ## Deployed Application
 
