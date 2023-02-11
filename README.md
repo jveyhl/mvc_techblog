@@ -29,7 +29,7 @@ N/A
 
 ## Deployed Application
 
-N/A
+https://mvc-techblog-jve04feb2023.herokuapp.com/
 
 ## Usage
 
